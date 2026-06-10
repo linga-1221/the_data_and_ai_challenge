@@ -1,0 +1,117 @@
+{
+  "version": "2.0",
+  "description": "Configuration for Semantic Ranking System",
+  "system": {
+    "cache_dir": "./cache",
+    "faiss_enabled": true,
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "embedding_dim": 384,
+    "embedding_batch_size": 32,
+    "normalize_embeddings": true
+  },
+  "component_weights": {
+    "semantic_fit": 0.40,
+    "experience": 0.25,
+    "skill_depth": 0.15,
+    "behavioral": 0.10,
+    "trust": 0.05,
+    "location": 0.05
+  },
+  "semantic_matcher": {
+    "skill_weight": 0.40,
+    "experience_weight": 0.30,
+    "title_weight": 0.15,
+    "summary_weight": 0.15,
+    "skill_similarity_threshold": 0.5,
+    "experience_similarity_threshold": 0.3
+  },
+  "skill_scoring": {
+    "proficiency_bonus": {
+      "expert": 0.08,
+      "advanced": 0.05
+    },
+    "duration_bonus_threshold_months": 24,
+    "duration_bonus": 0.04,
+    "max_proficiency_bonus": 0.10
+  },
+  "experience_scoring": {
+    "yoe_bands": [
+      { "max": 3, "score": 0.10 },
+      { "max": 5, "score": 0.55 },
+      { "max": 9, "score": 1.00 },
+      { "max": 12, "score": 0.80 },
+      { "max": "inf", "score": 0.60 }
+    ],
+    "company_type": {
+      "product_ratio_weight": 0.60,
+      "services_fallback_score": 0.20
+    },
+    "title_relevance_match_score": 1.0,
+    "evidence_phrase_weight": 0.10
+  },
+  "behavioral_weights": {
+    "last_active": 0.25,
+    "open_to_work": 0.15,
+    "recruiter_response_rate": 0.20,
+    "interview_completion_rate": 0.15,
+    "notice_period": 0.15,
+    "github_activity": 0.10
+  },
+  "location_scoring": {
+    "preferred_cities": [
+      "pune", "noida", "hyderabad", "mumbai", "delhi", "bengaluru",
+      "bangalore", "gurgaon", "gurugram", "chennai", "kolkata",
+      "jaipur", "ahmedabad", "indore", "bhubaneswar", "chandigarh",
+      "coimbatore", "trivandrum", "kochi", "thiruvananthapuram", "vizag"
+    ],
+    "scores": {
+      "preferred": 1.0,
+      "india_other_relocatable": 0.80,
+      "india_other": 0.65,
+      "international_relocatable": 0.30,
+      "international": 0.10
+    }
+  },
+  "trust_scoring": {
+    "min_score": 0.3,
+    "max_advanced_zero_duration": 5,
+    "max_yoe": 40,
+    "severity_weights": {
+      "low": 0.5,
+      "medium": 1.0,
+      "high": 1.5,
+      "critical": 2.0
+    },
+    "checks": {
+      "skill_stuffing": true,
+      "timeline_validity": true,
+      "yoe_consistency": true,
+      "skill_experience_alignment": true,
+      "profile_completeness": true
+    }
+  },
+  "execution": {
+    "top_n": 100,
+    "max_candidates": null,
+    "num_workers": 0,
+    "progress_log_interval": 1000
+  },
+  "output": {
+    "columns": [
+      "candidate_id",
+      "rank",
+      "score",
+      "semantic_fit",
+      "experience",
+      "skill_depth",
+      "behavioral",
+      "trust",
+      "location",
+      "reasoning",
+      "recommendation",
+      "trust_level"
+    ],
+    "summaries_enabled": true,
+    "save_detailed_summaries": true
+  }
+}
