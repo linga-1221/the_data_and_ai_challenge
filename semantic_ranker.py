@@ -462,7 +462,11 @@ class SemanticRanker:
         # Base from semantic skill matches
         if skill_matches:
             match_qualities = [m['similarity'] for m in skill_matches]
-            base_score = np.mean(match_qualities[:10])
+            coverage = min(len(skill_matches) / max(len(job_skills), 1), 1.0)
+            base_score = (
+                0.6 * np.mean(match_qualities[:10]) +
+                0.4 * coverage
+            )
         else:
             base_score = 0.0
 
@@ -650,11 +654,12 @@ class SemanticRanker:
         profile = candidate_profile.get('profile', {})
 
         # Core matches
-        print(
-    candidate_profile.get("candidate_id"),
-    semantic_scores.skill_similarity,
-    len(semantic_scores.detailed_skill_matches)
-)
+        logger.debug(
+            "%s skill_sim=%.3f matched=%d",
+            candidate_profile.get("candidate_id"),
+            semantic_scores.skill_similarity,
+            len(semantic_scores.detailed_skill_matches)
+        )
         if semantic_scores.skill_similarity > 0.25:
             reasoning.append(f"Skills: {len(semantic_scores.detailed_skill_matches)} matched")
         else:
