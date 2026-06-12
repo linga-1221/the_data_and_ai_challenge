@@ -1,158 +1,181 @@
-# Redrob AI - Semantic Candidate Ranking System
+# AI-Powered Semantic Candidate Ranking System
 
 ## Overview
 
-This project implements a semantic candidate ranking pipeline for the Redrob India Data & AI Challenge.
+An end-to-end AI recruitment intelligence platform built for the Redrob India Runs Data & AI Challenge.
 
-The objective is to rank candidates against a job description using semantic understanding rather than simple keyword matching.
-
-The system combines:
-
-* Semantic skill matching
-* Experience relevance scoring
-* Behavioral scoring
-* Trust scoring
-* Explainable ranking reasoning
-
-to identify candidates most relevant to AI-focused hiring requirements.
+The system analyzes a job description, semantically evaluates 100,000 candidate profiles, ranks the most relevant candidates, generates explainable recommendations, and provides an interactive recruiter dashboard for exploration and decision-making.
 
 ---
 
-## Architecture
+## Live Demo
 
-### Job Parsing
+🚀 Dashboard: https://redrob-thedataandaichallenge.streamlit.app/
 
-The job description is parsed to extract:
+📂 GitHub Repository: https://github.com/linga-1221/the_data_and_ai_challenge
 
-* Required skills
-* Preferred skills
-* Responsibilities
-* Semantic concepts
+---
 
-### Semantic Matching
+## Problem Statement
 
-Candidate profiles are compared against the job requirements using sentence embeddings.
+Traditional ATS systems rely heavily on keyword matching, often missing highly relevant candidates whose profiles use different terminology.
 
-The matching pipeline evaluates:
+This solution leverages semantic search, embeddings, behavioral signals, trust scoring, and explainable AI to identify the best candidates beyond simple keyword overlap.
 
-* Skill similarity
-* Experience similarity
-* Title similarity
-* Summary similarity
+---
 
-### Skill Depth Analysis
+## Key Features
 
-Relevant skills are scored using:
+* Semantic candidate matching using embeddings
+* Job description parsing and requirement extraction
+* Multi-factor ranking engine
+* Trust and behavioral scoring
+* Explainable AI candidate summaries
+* Top-100 candidate recommendation generation
+* Interactive recruiter dashboard
+* CSV submission generation
+* Scalable evaluation for 100,000 candidate profiles
 
-* Semantic match quality
-* Proficiency level
-* Duration of experience
+---
 
-### Behavioral Scoring
+## System Architecture
 
-Behavioral indicators include:
+Job Description
 
-* Activity recency
-* Recruiter response rate
-* Interview completion rate
-* Open-to-work signals
+↓
 
-### Trust Scoring
+Job Parser
 
-Trust signals are used to assess profile reliability and consistency.
+↓
 
-### Final Ranking
+Requirement Extraction
 
-Final candidate score combines:
+↓
 
-* Semantic Fit
-* Experience Relevance
-* Skill Depth
-* Behavioral Score
-* Trust Score
-* Location Match
+Embedding Manager
+
+↓
+
+Semantic Matcher
+
+↓
+
+Trust & Behavioral Scoring
+
+↓
+
+Ranking Engine
+
+↓
+
+Top 100 Candidates
+
+↓
+
+CSV Submission + Recruiter Dashboard
+
+---
+
+## Ranking Methodology
+
+The final ranking score combines multiple candidate signals:
+
+| Component          | Description                                           |
+| ------------------ | ----------------------------------------------------- |
+| Semantic Fit       | Embedding similarity between candidate profile and JD |
+| Experience Score   | Relevance of work experience                          |
+| Skill Depth        | Coverage and strength of required skills              |
+| Behavioral Score   | Candidate engagement and profile quality signals      |
+| Trust Score        | Reliability and consistency indicators                |
+| Concept Similarity | Matching of related concepts beyond keywords          |
+
+Final ranking is generated using weighted score aggregation.
+
+---
+
+## Recruiter Dashboard
+
+The Streamlit dashboard provides:
+
+* Candidate search
+* Score-based filtering
+* Candidate exploration
+* AI-generated explanations
+* Score distribution analytics
+* Recommendation distribution analytics
+* Downloadable ranked CSV
+
+---
+
+## Technologies Used
+
+### Programming
+
+* Python
+
+### AI / NLP
+
+* Sentence Transformers
+* Semantic Search
+* Embedding-Based Retrieval
+* Explainable AI
+
+### Data Processing
+
+* Pandas
+* NumPy
+* Scikit-Learn
+
+### Dashboard
+
+* Streamlit
+* Plotly
+
+### Infrastructure
+
+* Git
+* GitHub
 
 ---
 
 ## Results
 
-Validation was performed on:
-
-| Candidates |
-| ---------- |
-| 1,000      |
-| 5,000      |
-| 10,000     |
-| 100,000    |
-
-Final full-dataset run:
-
-* Candidates processed: 100,000
-* Top score: 0.7591
-* Top-100 score range: 0.6615 - 0.7591
-
-Top-ranked candidates included:
-
-* Senior Machine Learning Engineers
-* Senior NLP Engineers
-* Lead AI Engineers
-* Search Engineers
-* Applied ML Engineers
-* AI Research Engineers
+* Processed 100,000 candidate profiles
+* Generated ranked Top-100 recommendations
+* Achieved strong semantic candidate matching
+* Produced explainable ranking decisions
+* Built recruiter-facing analytics dashboard
 
 ---
 
-## Running
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run ranking:
-
-```bash
-python semantic_ranker.py \
-  --candidates candidates.jsonl \
-  --job job_description.docx \
-  --out semantic_submission.csv
-```
-
-Run on a subset:
-
-```bash
-python semantic_ranker.py \
-  --candidates candidates.jsonl \
-  --job job_description.docx \
-  --out semantic_submission.csv \
-  --max 10000
-```
-
----
-
-## Key Improvements
-
-* Fixed semantic ranking pipeline initialization issues
-* Improved responsibility extraction
-* Improved skill similarity scoring
-* Improved ranking explainability
-* Calibrated recommendation thresholds
-* Validated ranking quality on 100k candidate profiles
-
----
-
-## Repository Structure
+## Project Structure
 
 ```text
+app.py
+rank.py
 semantic_ranker.py
 semantic_matcher.py
 embedding_manager.py
 job_parser.py
-summarizer.py
 trust_scorer.py
-evaluator.py
-config_semantic.json
-requirements.txt
-README.md
+summarizer.py
+
+data/
+├── semantic_submission_full.csv
+├── semantic_submission_full_summaries.json
+└── job_requirements.json
 ```
+
+---
+
+## Future Improvements
+
+* Hybrid vector + keyword retrieval
+* Cross-encoder re-ranking
+* Recruiter feedback learning loop
+* Skill-gap analysis
+* Real-time dashboard analytics
+* Multi-job recommendation support
+
+---
+
