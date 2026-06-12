@@ -1,0 +1,1759 @@
+[
+  {
+    "candidate_id": "CAND_0018499",
+    "candidate_name": "Aarav Trivedi",
+    "current_title": "Senior Machine Learning Engineer",
+    "overall_score": 0.7591,
+    "recommendation": "Consider",
+    "summary": "Candidate: Aarav Trivedi (Senior Machine Learning Engineer)\nOverall Score: 0.76 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 7 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Opensearch\n  - Python\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved by recruiters",
+    "top_strengths": [
+      "7 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Milvus, Pinecone, Weaviate",
+      "Proven production deployment experience"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Opensearch",
+      "Python",
+      "Qdrant",
+      "Re-Ranking",
+      "Search"
+    ],
+    "risk_factors": [],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.7383,
+    "experience_score": 0.6406,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0046064",
+    "candidate_name": "Saanvi Naidu",
+    "current_title": "Senior NLP Engineer",
+    "overall_score": 0.7503,
+    "recommendation": "Consider",
+    "summary": "Candidate: Saanvi Naidu (Senior NLP Engineer)\nOverall Score: 0.75 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 8 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Faiss\n  - Milvus\n  - Qdrant\n  - Re-Ranking\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved by recr",
+    "top_strengths": [
+      "8 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Elasticsearch, OpenSearch, Pinecone",
+      "Proven production deployment experience"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Milvus",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval",
+      "Weaviate"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.7303,
+    "experience_score": 0.629,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0081846",
+    "candidate_name": "Arjun Khanna",
+    "current_title": "Lead AI Engineer",
+    "overall_score": 0.7459,
+    "recommendation": "Consider",
+    "summary": "Candidate: Arjun Khanna (Lead AI Engineer)\nOverall Score: 0.75 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 6 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Faiss\n  - Milvus\n  - Opensearch\n  - Pinecone\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - Shows long-term commitment to employers\n  - High recruiter interest (frequently ap",
+    "top_strengths": [
+      "6 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Elasticsearch, Qdrant, Python",
+      "Proven production deployment experience"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Milvus",
+      "Opensearch",
+      "Pinecone",
+      "Re-Ranking",
+      "Weaviate"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "Shows long-term commitment to employers",
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.7286,
+    "experience_score": 0.6348,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0088025",
+    "candidate_name": "Amit Arora",
+    "current_title": "Staff Machine Learning Engineer",
+    "overall_score": 0.7446,
+    "recommendation": "Consider",
+    "summary": "Candidate: Amit Arora (Staff Machine Learning Engineer)\nOverall Score: 0.74 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 8 years of professional experience\n  - Senior-level professional experience\n  - Strong skills: Elasticsearch, Pinecone, Python\n\nSkill Gaps (Critical):\n  - Faiss\n  - Milvus\n  - Opensearch\n  - Qdrant\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  -",
+    "top_strengths": [
+      "8 years of professional experience",
+      "Senior-level professional experience",
+      "Strong skills: Elasticsearch, Pinecone, Python",
+      "Actively looking for new opportunities",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Milvus",
+      "Opensearch",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval",
+      "Weaviate",
+      "Faiss (preferred)"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.7215,
+    "experience_score": 0.635,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0039754",
+    "candidate_name": "Mira Banerjee",
+    "current_title": "Senior Applied Scientist",
+    "overall_score": 0.7435,
+    "recommendation": "Borderline",
+    "summary": "Candidate: Mira Banerjee (Senior Applied Scientist)\nOverall Score: 0.74 | Recommendation: Borderline\nTrust Level: Critical\n\nKey Strengths:\n  - 16 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Faiss\n  - Milvus\n  - Pinecone\n  - Re-Ranking\n\nRisk Factors:\n  - Critical trust issues detected - requires manual verification\n  - Stated: 16.2yr, Career sum: 8.2yr\n  - International location - may have relocatio",
+    "top_strengths": [
+      "16 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Elasticsearch, OpenSearch, Qdrant",
+      "Proven production deployment experience"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Milvus",
+      "Pinecone",
+      "Re-Ranking",
+      "Retrieval",
+      "Faiss (preferred)",
+      "Milvus (preferred)"
+    ],
+    "risk_factors": [
+      "Critical trust issues detected - requires manual verification",
+      "Stated: 16.2yr, Career sum: 8.2yr",
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.7268,
+    "experience_score": 0.6507,
+    "trust_level": "critical"
+  },
+  {
+    "candidate_id": "CAND_0094759",
+    "candidate_name": "Aditya Pillai",
+    "current_title": "Lead AI Engineer",
+    "overall_score": 0.7392,
+    "recommendation": "Consider",
+    "summary": "Candidate: Aditya Pillai (Lead AI Engineer)\nOverall Score: 0.74 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 8 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Milvus\n  - Opensearch\n  - Pinecone\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Profile passes basic validation - review flagged items",
+    "top_strengths": [
+      "8 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Qdrant, Weaviate, FAISS"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Milvus",
+      "Opensearch",
+      "Pinecone",
+      "Python",
+      "Re-Ranking",
+      "Retrieval",
+      "Elasticsearch (preferred)"
+    ],
+    "risk_factors": [],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.757,
+    "experience_score": 0.6837,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0046525",
+    "candidate_name": "Tanvi Mukherjee",
+    "current_title": "Senior Machine Learning Engineer",
+    "overall_score": 0.7331,
+    "recommendation": "Consider",
+    "summary": "Candidate: Tanvi Mukherjee (Senior Machine Learning Engineer)\nOverall Score: 0.73 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 6 years of professional experience\n  - Senior-level professional experience\n  - Strong skills: Elasticsearch, Qdrant, Information Retrieval\n\nSkill Gaps (Critical):\n  - Faiss\n  - Milvus\n  - Opensearch\n  - Pinecone\n\nTalent Insights:\n  - Shows long-term commitment to employers\n  - High recruiter interest (frequently appeared in searches)",
+    "top_strengths": [
+      "6 years of professional experience",
+      "Senior-level professional experience",
+      "Strong skills: Elasticsearch, Qdrant, Information Retrieval",
+      "Actively looking for new opportunities",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Milvus",
+      "Opensearch",
+      "Pinecone",
+      "Python",
+      "Re-Ranking",
+      "Weaviate",
+      "Faiss (preferred)"
+    ],
+    "risk_factors": [],
+    "talent_insights": [
+      "Shows long-term commitment to employers",
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.7013,
+    "experience_score": 0.6284,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0002025",
+    "candidate_name": "Ira Dalal",
+    "current_title": "Senior AI Engineer",
+    "overall_score": 0.7329,
+    "recommendation": "Consider",
+    "summary": "Candidate: Ira Dalal (Senior AI Engineer)\nOverall Score: 0.73 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 5 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Milvus\n  - Qdrant\n  - Re-Ranking\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved by ",
+    "top_strengths": [
+      "5 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: OpenSearch, Pinecone, Weaviate",
+      "Proven production deployment experience"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Milvus",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.7146,
+    "experience_score": 0.5593,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0071974",
+    "candidate_name": "Sai Verma",
+    "current_title": "Senior AI Engineer",
+    "overall_score": 0.7274,
+    "recommendation": "Consider",
+    "summary": "Candidate: Sai Verma (Senior AI Engineer)\nOverall Score: 0.73 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 7 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Faiss\n  - Milvus\n  - Opensearch\n  - Python\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved by recruite",
+    "top_strengths": [
+      "7 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Elasticsearch, Qdrant, Pinecone",
+      "Proven production deployment experience"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Milvus",
+      "Opensearch",
+      "Python",
+      "Re-Ranking"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.7262,
+    "experience_score": 0.5477,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0086022",
+    "candidate_name": "Dhruv Naidu",
+    "current_title": "Senior Applied Scientist",
+    "overall_score": 0.7267,
+    "recommendation": "Consider",
+    "summary": "Candidate: Dhruv Naidu (Senior Applied Scientist)\nOverall Score: 0.73 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 5 years of professional experience\n  - Senior-level professional experience\n  - Strong skills: Elasticsearch, Pinecone, Vector Search\n\nSkill Gaps (Critical):\n  - Faiss\n  - Milvus\n  - Opensearch\n  - Python\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  ",
+    "top_strengths": [
+      "5 years of professional experience",
+      "Senior-level professional experience",
+      "Strong skills: Elasticsearch, Pinecone, Vector Search",
+      "Actively looking for new opportunities"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Milvus",
+      "Opensearch",
+      "Python",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval",
+      "Weaviate"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6961,
+    "experience_score": 0.6483,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0077337",
+    "candidate_name": "Aarav Agarwal",
+    "current_title": "Staff Machine Learning Engineer",
+    "overall_score": 0.726,
+    "recommendation": "Consider",
+    "summary": "Candidate: Aarav Agarwal (Staff Machine Learning Engineer)\nOverall Score: 0.73 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 7 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Milvus\n  - Re-Ranking\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  -",
+    "top_strengths": [
+      "7 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: OpenSearch, Qdrant, Pinecone",
+      "Proven production deployment experience"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Milvus",
+      "Re-Ranking",
+      "Weaviate"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6947,
+    "experience_score": 0.5725,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0068351",
+    "candidate_name": "Aadhya Iyer",
+    "current_title": "Lead AI Engineer",
+    "overall_score": 0.7187,
+    "recommendation": "Consider",
+    "summary": "Candidate: Aadhya Iyer (Lead AI Engineer)\nOverall Score: 0.72 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 6 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Faiss\n  - Milvus\n  - Opensearch\n  - Pinecone\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved by recruiters",
+    "top_strengths": [
+      "6 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Elasticsearch, Qdrant, Python",
+      "Proven production deployment experience"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Milvus",
+      "Opensearch",
+      "Pinecone",
+      "Re-Ranking",
+      "Weaviate"
+    ],
+    "risk_factors": [],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.7071,
+    "experience_score": 0.5964,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0064326",
+    "candidate_name": "Nisha Pillai",
+    "current_title": "Search Engineer",
+    "overall_score": 0.7103,
+    "recommendation": "Consider",
+    "summary": "Candidate: Nisha Pillai (Search Engineer)\nOverall Score: 0.71 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 7 years of professional experience\n  - Experience at leading tech companies\n  - Strong skills: Milvus, Weaviate, Python\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Opensearch\n  - Pinecone\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved",
+    "top_strengths": [
+      "7 years of professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Milvus, Weaviate, Python",
+      "Actively looking for new opportunities",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Opensearch",
+      "Pinecone",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval",
+      "Elasticsearch (preferred)"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6796,
+    "experience_score": 0.5424,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0080766",
+    "candidate_name": "Kiara Mittal",
+    "current_title": "Staff Machine Learning Engineer",
+    "overall_score": 0.71,
+    "recommendation": "Consider",
+    "summary": "Candidate: Kiara Mittal (Staff Machine Learning Engineer)\nOverall Score: 0.71 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 8 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Faiss\n  - Pinecone\n  - Qdrant\n  - Re-Ranking\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often",
+    "top_strengths": [
+      "8 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Elasticsearch, OpenSearch, Milvus",
+      "Proven production deployment experience"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Pinecone",
+      "Qdrant",
+      "Re-Ranking",
+      "Weaviate"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6896,
+    "experience_score": 0.5916,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0068811",
+    "candidate_name": "Krishna Mittal",
+    "current_title": "Applied ML Engineer",
+    "overall_score": 0.7089,
+    "recommendation": "Consider",
+    "summary": "Candidate: Krishna Mittal (Applied ML Engineer)\nOverall Score: 0.71 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 8 years of professional experience\n  - Strong skills: OpenSearch, Qdrant, Weaviate\n  - Proven production deployment experience\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Milvus\n  - Python\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Profile passes basic validation - review flagged items",
+    "top_strengths": [
+      "8 years of professional experience",
+      "Strong skills: OpenSearch, Qdrant, Weaviate",
+      "Proven production deployment experience",
+      "Actively looking for new opportunities"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Milvus",
+      "Python",
+      "Re-Ranking",
+      "Retrieval",
+      "Elasticsearch (preferred)",
+      "Faiss (preferred)"
+    ],
+    "risk_factors": [],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6795,
+    "experience_score": 0.5914,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0025640",
+    "candidate_name": "Anjali Kapoor",
+    "current_title": "AI Research Engineer",
+    "overall_score": 0.7083,
+    "recommendation": "Consider",
+    "summary": "Candidate: Anjali Kapoor (AI Research Engineer)\nOverall Score: 0.71 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 5 years of professional experience\n  - Strong skills: Elasticsearch, OpenSearch, FAISS\n  - Actively looking for new opportunities\n\nSkill Gaps (Critical):\n  - Milvus\n  - Pinecone\n  - Python\n  - Qdrant\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often",
+    "top_strengths": [
+      "5 years of professional experience",
+      "Strong skills: Elasticsearch, OpenSearch, FAISS",
+      "Actively looking for new opportunities",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Milvus",
+      "Pinecone",
+      "Python",
+      "Qdrant",
+      "Re-Ranking",
+      "Weaviate",
+      "Milvus (preferred)"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6748,
+    "experience_score": 0.5503,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0030468",
+    "candidate_name": "Pooja Bose",
+    "current_title": "Senior Applied Scientist",
+    "overall_score": 0.7062,
+    "recommendation": "Consider",
+    "summary": "Candidate: Pooja Bose (Senior Applied Scientist)\nOverall Score: 0.71 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 5 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Pinecone\n  - Python\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved",
+    "top_strengths": [
+      "5 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: OpenSearch, Milvus, Information Retrieval Systems",
+      "Proven production deployment experience"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Pinecone",
+      "Python",
+      "Qdrant",
+      "Re-Ranking",
+      "Weaviate",
+      "Elasticsearch (preferred)"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6705,
+    "experience_score": 0.5903,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0079387",
+    "candidate_name": "Sneha Arora",
+    "current_title": "AI Engineer",
+    "overall_score": 0.7053,
+    "recommendation": "Consider",
+    "summary": "Candidate: Sneha Arora (AI Engineer)\nOverall Score: 0.71 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 6 years of professional experience\n  - Experience at leading tech companies\n  - Strong skills: OpenSearch, Python, Learning to Rank\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Milvus\n  - Pinecone\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often sa",
+    "top_strengths": [
+      "6 years of professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: OpenSearch, Python, Learning to Rank",
+      "Proven production deployment experience",
+      "Actively looking for new opportunities"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Milvus",
+      "Pinecone",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval",
+      "Weaviate"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6906,
+    "experience_score": 0.5518,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0011687",
+    "candidate_name": "Shreya Tiwari",
+    "current_title": "Senior NLP Engineer",
+    "overall_score": 0.7037,
+    "recommendation": "Consider",
+    "summary": "Candidate: Shreya Tiwari (Senior NLP Engineer)\nOverall Score: 0.70 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 7 years of professional experience\n  - Senior-level professional experience\n  - Strong skills: OpenSearch, Weaviate, FAISS\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Milvus\n  - Pinecone\n  - Python\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - Shows long-term commitment to employers\n  - High recruiter interest ",
+    "top_strengths": [
+      "7 years of professional experience",
+      "Senior-level professional experience",
+      "Strong skills: OpenSearch, Weaviate, FAISS",
+      "Actively looking for new opportunities",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Milvus",
+      "Pinecone",
+      "Python",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval",
+      "Elasticsearch (preferred)"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "Shows long-term commitment to employers",
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6713,
+    "experience_score": 0.5418,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0037980",
+    "candidate_name": "Reyansh Chowdary",
+    "current_title": "Senior Applied Scientist",
+    "overall_score": 0.703,
+    "recommendation": "Consider",
+    "summary": "Candidate: Reyansh Chowdary (Senior Applied Scientist)\nOverall Score: 0.70 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 9 years of professional experience\n  - Senior-level professional experience\n  - Strong skills: Information Retrieval Systems, Search Infrastructure, QLoRA\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Milvus\n  - Opensearch\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (fr",
+    "top_strengths": [
+      "9 years of professional experience",
+      "Senior-level professional experience",
+      "Strong skills: Information Retrieval Systems, Search Infrastructure, QLoRA",
+      "Proven production deployment experience",
+      "Actively looking for new opportunities"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Milvus",
+      "Opensearch",
+      "Pinecone",
+      "Python",
+      "Qdrant",
+      "Re-Ranking"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6757,
+    "experience_score": 0.6248,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0061257",
+    "candidate_name": "Advaith Pillai",
+    "current_title": "Staff Machine Learning Engineer",
+    "overall_score": 0.7009,
+    "recommendation": "Consider",
+    "summary": "Candidate: Advaith Pillai (Staff Machine Learning Engineer)\nOverall Score: 0.70 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 8 years of professional experience\n  - Senior-level professional experience\n  - Strong skills: Python, Information Retrieval Systems, Search Infrastructure\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Milvus\n  - Opensearch\n\nTalent Insights:\n  - Shows long-term commitment to employers\n  - Often saved by recruiters",
+    "top_strengths": [
+      "8 years of professional experience",
+      "Senior-level professional experience",
+      "Strong skills: Python, Information Retrieval Systems, Search Infrastructure",
+      "Proven production deployment experience",
+      "Actively looking for new opportunities"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Milvus",
+      "Opensearch",
+      "Pinecone",
+      "Qdrant",
+      "Re-Ranking",
+      "Weaviate"
+    ],
+    "risk_factors": [],
+    "talent_insights": [
+      "Shows long-term commitment to employers",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6624,
+    "experience_score": 0.5973,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0099806",
+    "candidate_name": "Pranav Subramanian",
+    "current_title": "AI Engineer",
+    "overall_score": 0.6993,
+    "recommendation": "Consider",
+    "summary": "Candidate: Pranav Subramanian (AI Engineer)\nOverall Score: 0.70 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 4 years of hands-on experience\n  - Strong skills: Elasticsearch, Qdrant, Weaviate\n  - Actively looking for new opportunities\n\nSkill Gaps (Critical):\n  - Milvus\n  - Opensearch\n  - Pinecone\n  - Python\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Profile pa",
+    "top_strengths": [
+      "4 years of hands-on experience",
+      "Strong skills: Elasticsearch, Qdrant, Weaviate",
+      "Actively looking for new opportunities",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Milvus",
+      "Opensearch",
+      "Pinecone",
+      "Python",
+      "Re-Ranking",
+      "Retrieval",
+      "Milvus (preferred)"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.7072,
+    "experience_score": 0.5286,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0005260",
+    "candidate_name": "Mira Ghosh",
+    "current_title": "Senior NLP Engineer",
+    "overall_score": 0.6992,
+    "recommendation": "Consider",
+    "summary": "Candidate: Mira Ghosh (Senior NLP Engineer)\nOverall Score: 0.70 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 5 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Milvus\n  - Opensearch\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved by",
+    "top_strengths": [
+      "5 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Information Retrieval, Python, Semantic Search",
+      "Proven production deployment experience"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Milvus",
+      "Opensearch",
+      "Pinecone",
+      "Qdrant",
+      "Re-Ranking",
+      "Weaviate"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6814,
+    "experience_score": 0.6252,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0018549",
+    "candidate_name": "Mira Verma",
+    "current_title": "Recommendation Systems Engineer",
+    "overall_score": 0.6984,
+    "recommendation": "Consider",
+    "summary": "Candidate: Mira Verma (Recommendation Systems Engineer)\nOverall Score: 0.70 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 6 years of professional experience\n  - Strong skills: Elasticsearch, OpenSearch, Milvus\n  - Proven production deployment experience\n\nSkill Gaps (Critical):\n  - Faiss\n  - Pinecone\n  - Python\n  - Re-Ranking\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - Shows long-term commitment to employers\n  - High recru",
+    "top_strengths": [
+      "6 years of professional experience",
+      "Strong skills: Elasticsearch, OpenSearch, Milvus",
+      "Proven production deployment experience",
+      "Actively looking for new opportunities",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Pinecone",
+      "Python",
+      "Re-Ranking",
+      "Retrieval",
+      "Faiss (preferred)"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "Shows long-term commitment to employers",
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6485,
+    "experience_score": 0.5797,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0010257",
+    "candidate_name": "Ira Shetty",
+    "current_title": "Senior Data Scientist",
+    "overall_score": 0.6948,
+    "recommendation": "Consider",
+    "summary": "Candidate: Ira Shetty (Senior Data Scientist)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 6 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Pinecone\n  - Re-Ranking\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved by recruiters",
+    "top_strengths": [
+      "6 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: OpenSearch, Milvus, Qdrant",
+      "Proven production deployment experience"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Pinecone",
+      "Re-Ranking",
+      "Retrieval",
+      "Weaviate",
+      "Elasticsearch (preferred)",
+      "Faiss (preferred)"
+    ],
+    "risk_factors": [],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6535,
+    "experience_score": 0.5747,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0062247",
+    "candidate_name": "Saanvi Trivedi",
+    "current_title": "AI Engineer",
+    "overall_score": 0.6946,
+    "recommendation": "Consider",
+    "summary": "Candidate: Saanvi Trivedi (AI Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 7 years of professional experience\n  - Experience at leading tech companies\n  - Strong skills: Qdrant, Pinecone, Information Retrieval\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Milvus\n  - Opensearch\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - Shows long-term commitment to employers\n  - High recruiter int",
+    "top_strengths": [
+      "7 years of professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Qdrant, Pinecone, Information Retrieval",
+      "Actively looking for new opportunities",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Milvus",
+      "Opensearch",
+      "Python",
+      "Re-Ranking",
+      "Weaviate",
+      "Elasticsearch (preferred)"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "Shows long-term commitment to employers",
+      "High recruiter interest (frequently appeared in searches)",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6786,
+    "experience_score": 0.5264,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0008239",
+    "candidate_name": "Advik Iyer",
+    "current_title": "AI Engineer",
+    "overall_score": 0.6945,
+    "recommendation": "Consider",
+    "summary": "Candidate: Advik Iyer (AI Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 4 years of hands-on experience\n  - Experience at leading tech companies\n  - Strong skills: Elasticsearch, Milvus, Weaviate\n\nSkill Gaps (Critical):\n  - Opensearch\n  - Pinecone\n  - Qdrant\n  - Re-Ranking\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - Shows long-term commitment to employers\n  - High recruiter interest (frequentl",
+    "top_strengths": [
+      "4 years of hands-on experience",
+      "Experience at leading tech companies",
+      "Strong skills: Elasticsearch, Milvus, Weaviate",
+      "Actively looking for new opportunities",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Opensearch",
+      "Pinecone",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "Shows long-term commitment to employers",
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.7075,
+    "experience_score": 0.5183,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0008425",
+    "candidate_name": "Myra Krishnan",
+    "current_title": "Senior NLP Engineer",
+    "overall_score": 0.6945,
+    "recommendation": "Consider",
+    "summary": "Candidate: Myra Krishnan (Senior NLP Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 7 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Milvus\n  - Opensearch\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved",
+    "top_strengths": [
+      "7 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Qdrant, Python, Information Retrieval",
+      "Proven production deployment experience"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Milvus",
+      "Opensearch",
+      "Pinecone",
+      "Re-Ranking",
+      "Weaviate",
+      "Elasticsearch (preferred)"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6834,
+    "experience_score": 0.554,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0065786",
+    "candidate_name": "Advaith Pandey",
+    "current_title": "AI Specialist",
+    "overall_score": 0.6927,
+    "recommendation": "Consider",
+    "summary": "Candidate: Advaith Pandey (AI Specialist)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 4 years of hands-on experience\n  - Experience at leading tech companies\n  - Strong skills: Pinecone, Qdrant, Semantic Search\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Milvus\n  - Opensearch\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often sa",
+    "top_strengths": [
+      "4 years of hands-on experience",
+      "Experience at leading tech companies",
+      "Strong skills: Pinecone, Qdrant, Semantic Search",
+      "Actively looking for new opportunities",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Milvus",
+      "Opensearch",
+      "Python",
+      "Re-Ranking",
+      "Retrieval",
+      "Weaviate"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6657,
+    "experience_score": 0.5552,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0041669",
+    "candidate_name": "Aisha Banerjee",
+    "current_title": "Recommendation Systems Engineer",
+    "overall_score": 0.6926,
+    "recommendation": "Consider",
+    "summary": "Candidate: Aisha Banerjee (Recommendation Systems Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 8 years of professional experience\n  - Strong skills: Milvus, Qdrant, Weaviate\n  - Proven production deployment experience\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Opensearch\n  - Pinecone\n  - Python\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved by recruiters",
+    "top_strengths": [
+      "8 years of professional experience",
+      "Strong skills: Milvus, Qdrant, Weaviate",
+      "Proven production deployment experience",
+      "Actively looking for new opportunities",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Opensearch",
+      "Pinecone",
+      "Python",
+      "Re-Ranking"
+    ],
+    "risk_factors": [],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6556,
+    "experience_score": 0.5445,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0074225",
+    "candidate_name": "Kabir Agarwal",
+    "current_title": "Machine Learning Engineer",
+    "overall_score": 0.6917,
+    "recommendation": "Consider",
+    "summary": "Candidate: Kabir Agarwal (Machine Learning Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 4 years of hands-on experience\n  - Strong skills: Elasticsearch, Milvus, Qdrant\n  - Actively looking for new opportunities\n\nSkill Gaps (Critical):\n  - Faiss\n  - Opensearch\n  - Pinecone\n  - Re-Ranking\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - ",
+    "top_strengths": [
+      "4 years of hands-on experience",
+      "Strong skills: Elasticsearch, Milvus, Qdrant",
+      "Actively looking for new opportunities",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Opensearch",
+      "Pinecone",
+      "Re-Ranking",
+      "Retrieval",
+      "Weaviate",
+      "Faiss (preferred)"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6617,
+    "experience_score": 0.5692,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0030031",
+    "candidate_name": "Anil Joshi",
+    "current_title": "AI Engineer",
+    "overall_score": 0.6911,
+    "recommendation": "Consider",
+    "summary": "Candidate: Anil Joshi (AI Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 5 years of professional experience\n  - Experience at leading tech companies\n  - Strong skills: Milvus, Information Retrieval, Python\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Opensearch\n  - Pinecone\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Ofte",
+    "top_strengths": [
+      "5 years of professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Milvus, Information Retrieval, Python",
+      "Proven production deployment experience",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Opensearch",
+      "Pinecone",
+      "Qdrant",
+      "Re-Ranking",
+      "Weaviate",
+      "Elasticsearch (preferred)"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6773,
+    "experience_score": 0.5299,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0075574",
+    "candidate_name": "Karan Ghosh",
+    "current_title": "Machine Learning Engineer",
+    "overall_score": 0.6893,
+    "recommendation": "Consider",
+    "summary": "Candidate: Karan Ghosh (Machine Learning Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 5 years of professional experience\n  - Strong skills: Elasticsearch, OpenSearch, Qdrant\n  - Actively looking for new opportunities\n\nSkill Gaps (Critical):\n  - Faiss\n  - Milvus\n  - Pinecone\n  - Python\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved by recruiters",
+    "top_strengths": [
+      "5 years of professional experience",
+      "Strong skills: Elasticsearch, OpenSearch, Qdrant",
+      "Actively looking for new opportunities"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Milvus",
+      "Pinecone",
+      "Python",
+      "Re-Ranking",
+      "Retrieval"
+    ],
+    "risk_factors": [],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6547,
+    "experience_score": 0.5289,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0050876",
+    "candidate_name": "Vivaan Shah",
+    "current_title": "Applied ML Engineer",
+    "overall_score": 0.6892,
+    "recommendation": "Consider",
+    "summary": "Candidate: Vivaan Shah (Applied ML Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 6 years of professional experience\n  - Experience at leading tech companies\n  - Strong skills: OpenSearch, Qdrant, FAISS\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Milvus\n  - Pinecone\n  - Re-Ranking\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - Profile passes basic validation - review flagged items\n  - Good sema",
+    "top_strengths": [
+      "6 years of professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: OpenSearch, Qdrant, FAISS",
+      "Proven production deployment experience",
+      "Actively looking for new opportunities"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Milvus",
+      "Pinecone",
+      "Re-Ranking",
+      "Retrieval",
+      "Weaviate",
+      "Elasticsearch (preferred)",
+      "Milvus (preferred)"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6484,
+    "experience_score": 0.5391,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0055905",
+    "candidate_name": "Anika Rao",
+    "current_title": "Senior Machine Learning Engineer",
+    "overall_score": 0.6892,
+    "recommendation": "Consider",
+    "summary": "Candidate: Anika Rao (Senior Machine Learning Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 8 years of professional experience\n  - Senior-level professional experience\n  - Strong skills: Elasticsearch, OpenSearch, Information Retrieval\n\nSkill Gaps (Critical):\n  - Faiss\n  - Milvus\n  - Pinecone\n  - Qdrant\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared i",
+    "top_strengths": [
+      "8 years of professional experience",
+      "Senior-level professional experience",
+      "Strong skills: Elasticsearch, OpenSearch, Information Retrieval",
+      "Proven production deployment experience",
+      "Actively looking for new opportunities"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Milvus",
+      "Pinecone",
+      "Qdrant",
+      "Re-Ranking",
+      "Weaviate",
+      "Faiss (preferred)",
+      "Milvus (preferred)"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.7065,
+    "experience_score": 0.6112,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0044855",
+    "candidate_name": "Kavya Joshi",
+    "current_title": "Senior Data Scientist",
+    "overall_score": 0.6892,
+    "recommendation": "Consider",
+    "summary": "Candidate: Kavya Joshi (Senior Data Scientist)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 6 years of professional experience\n  - Senior-level professional experience\n  - Strong skills: OpenSearch, Qdrant, Pinecone\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Milvus\n  - Python\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often sa",
+    "top_strengths": [
+      "6 years of professional experience",
+      "Senior-level professional experience",
+      "Strong skills: OpenSearch, Qdrant, Pinecone",
+      "Proven production deployment experience"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Milvus",
+      "Python",
+      "Re-Ranking",
+      "Weaviate"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.667,
+    "experience_score": 0.5659,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0033861",
+    "candidate_name": "Kabir Kapoor",
+    "current_title": "Senior NLP Engineer",
+    "overall_score": 0.6891,
+    "recommendation": "Consider",
+    "summary": "Candidate: Kabir Kapoor (Senior NLP Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 8 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Faiss\n  - Opensearch\n  - Python\n  - Re-Ranking\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Profile passes ",
+    "top_strengths": [
+      "8 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Elasticsearch, Qdrant, Milvus",
+      "Proven production deployment experience"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Opensearch",
+      "Python",
+      "Re-Ranking",
+      "Retrieval"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.7156,
+    "experience_score": 0.5369,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0092278",
+    "candidate_name": "Ananya Arora",
+    "current_title": "Senior NLP Engineer",
+    "overall_score": 0.689,
+    "recommendation": "Consider",
+    "summary": "Candidate: Ananya Arora (Senior NLP Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 6 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Faiss\n  - Opensearch\n  - Pinecone\n  - Python\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Profile passes basic validation - review flagged items",
+    "top_strengths": [
+      "6 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Elasticsearch, Milvus, Semantic Search",
+      "Proven production deployment experience"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Opensearch",
+      "Pinecone",
+      "Python",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval",
+      "Weaviate"
+    ],
+    "risk_factors": [],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.7154,
+    "experience_score": 0.6321,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0081053",
+    "candidate_name": "Om Chopra",
+    "current_title": "NLP Engineer",
+    "overall_score": 0.6886,
+    "recommendation": "Consider",
+    "summary": "Candidate: Om Chopra (NLP Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 5 years of professional experience\n  - Strong skills: OpenSearch, Qdrant, Weaviate\n  - Proven production deployment experience\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Milvus\n  - Pinecone\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved by",
+    "top_strengths": [
+      "5 years of professional experience",
+      "Strong skills: OpenSearch, Qdrant, Weaviate",
+      "Proven production deployment experience",
+      "Actively looking for new opportunities",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Milvus",
+      "Pinecone",
+      "Python",
+      "Re-Ranking",
+      "Retrieval",
+      "Elasticsearch (preferred)"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.653,
+    "experience_score": 0.5632,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0007411",
+    "candidate_name": "Rahul Bansal",
+    "current_title": "Senior Machine Learning Engineer",
+    "overall_score": 0.688,
+    "recommendation": "Consider",
+    "summary": "Candidate: Rahul Bansal (Senior Machine Learning Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 8 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Milvus\n  - Python\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - Shows long-term commitment to employers\n  - High recruiter intere",
+    "top_strengths": [
+      "8 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: OpenSearch, Pinecone, Information Retrieval"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Milvus",
+      "Python",
+      "Qdrant",
+      "Re-Ranking",
+      "Weaviate"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "Shows long-term commitment to employers",
+      "High recruiter interest (frequently appeared in searches)",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.7007,
+    "experience_score": 0.5919,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0087630",
+    "candidate_name": "Aisha Rao",
+    "current_title": "AI Engineer",
+    "overall_score": 0.6878,
+    "recommendation": "Consider",
+    "summary": "Candidate: Aisha Rao (AI Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 7 years of professional experience\n  - Strong skills: Elasticsearch, OpenSearch, Learning to Rank\n  - Proven production deployment experience\n\nSkill Gaps (Critical):\n  - Faiss\n  - Milvus\n  - Pinecone\n  - Python\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often s",
+    "top_strengths": [
+      "7 years of professional experience",
+      "Strong skills: Elasticsearch, OpenSearch, Learning to Rank",
+      "Proven production deployment experience"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Milvus",
+      "Pinecone",
+      "Python",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval",
+      "Weaviate"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.683,
+    "experience_score": 0.5862,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0020991",
+    "candidate_name": "Pranav Nair",
+    "current_title": "Junior ML Engineer",
+    "overall_score": 0.6871,
+    "recommendation": "Consider",
+    "summary": "Candidate: Pranav Nair (Junior ML Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 4 years of hands-on experience\n  - Strong skills: OpenSearch, Weaviate, Python\n  - Proven production deployment experience\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Milvus\n  - Pinecone\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often save",
+    "top_strengths": [
+      "4 years of hands-on experience",
+      "Strong skills: OpenSearch, Weaviate, Python",
+      "Proven production deployment experience",
+      "Actively looking for new opportunities",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Milvus",
+      "Pinecone",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval",
+      "Elasticsearch (preferred)"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6766,
+    "experience_score": 0.5637,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0093912",
+    "candidate_name": "Advik Sethi",
+    "current_title": "Senior Data Scientist",
+    "overall_score": 0.6871,
+    "recommendation": "Consider",
+    "summary": "Candidate: Advik Sethi (Senior Data Scientist)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 5 years of professional experience\n  - Senior-level professional experience\n  - Experience at leading tech companies\n\nSkill Gaps (Critical):\n  - Faiss\n  - Opensearch\n  - Pinecone\n  - Python\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved by r",
+    "top_strengths": [
+      "5 years of professional experience",
+      "Senior-level professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Elasticsearch, Milvus, Learning to Rank",
+      "Actively looking for new opportunities"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Opensearch",
+      "Pinecone",
+      "Python",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval",
+      "Weaviate"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6505,
+    "experience_score": 0.543,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0011162",
+    "candidate_name": "Nisha Sharma",
+    "current_title": "Recommendation Systems Engineer",
+    "overall_score": 0.6861,
+    "recommendation": "Consider",
+    "summary": "Candidate: Nisha Sharma (Recommendation Systems Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 5 years of professional experience\n  - Experience at leading tech companies\n  - Strong skills: OpenSearch, Milvus, Pinecone\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Qdrant\n  - Re-Ranking\n  - Retrieval\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in sea",
+    "top_strengths": [
+      "5 years of professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: OpenSearch, Milvus, Pinecone",
+      "Actively looking for new opportunities",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6608,
+    "experience_score": 0.5256,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0083307",
+    "candidate_name": "Neha Patel",
+    "current_title": "Search Engineer",
+    "overall_score": 0.6856,
+    "recommendation": "Consider",
+    "summary": "Candidate: Neha Patel (Search Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 7 years of professional experience\n  - Experience at leading tech companies\n  - Strong skills: Pinecone, Weaviate, Python\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Milvus\n  - Opensearch\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved b",
+    "top_strengths": [
+      "7 years of professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Pinecone, Weaviate, Python",
+      "Actively looking for new opportunities"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Milvus",
+      "Opensearch",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6916,
+    "experience_score": 0.5086,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0091890",
+    "candidate_name": "Ayaan Subramanian",
+    "current_title": "AI Research Engineer",
+    "overall_score": 0.6855,
+    "recommendation": "Consider",
+    "summary": "Candidate: Ayaan Subramanian (AI Research Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 4 years of hands-on experience\n  - Strong skills: Elasticsearch, OpenSearch, Milvus\n  - Actively looking for new opportunities\n\nSkill Gaps (Critical):\n  - Faiss\n  - Python\n  - Qdrant\n  - Re-Ranking\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved by recruiters",
+    "top_strengths": [
+      "4 years of hands-on experience",
+      "Strong skills: Elasticsearch, OpenSearch, Milvus",
+      "Actively looking for new opportunities"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Python",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval"
+    ],
+    "risk_factors": [],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6854,
+    "experience_score": 0.5111,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0036437",
+    "candidate_name": "Arjun Joshi",
+    "current_title": "Search Engineer",
+    "overall_score": 0.6855,
+    "recommendation": "Consider",
+    "summary": "Candidate: Arjun Joshi (Search Engineer)\nOverall Score: 0.69 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 4 years of hands-on experience\n  - Experience at leading tech companies\n  - Strong skills: Elasticsearch, OpenSearch, Milvus\n\nSkill Gaps (Critical):\n  - Pinecone\n  - Python\n  - Qdrant\n  - Re-Ranking\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved b",
+    "top_strengths": [
+      "4 years of hands-on experience",
+      "Experience at leading tech companies",
+      "Strong skills: Elasticsearch, OpenSearch, Milvus",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Pinecone",
+      "Python",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6713,
+    "experience_score": 0.5251,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0049538",
+    "candidate_name": "Sanjay Bose",
+    "current_title": "Applied ML Engineer",
+    "overall_score": 0.685,
+    "recommendation": "Consider",
+    "summary": "Candidate: Sanjay Bose (Applied ML Engineer)\nOverall Score: 0.68 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 5 years of professional experience\n  - Strong skills: Elasticsearch, OpenSearch, Milvus\n  - High recruiter response rate\n\nSkill Gaps (Critical):\n  - Faiss\n  - Pinecone\n  - Python\n  - Qdrant\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - High recruiter interest (frequently appeared in searches)\n  - Often saved by rec",
+    "top_strengths": [
+      "5 years of professional experience",
+      "Strong skills: Elasticsearch, OpenSearch, Milvus",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Pinecone",
+      "Python",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval",
+      "Weaviate"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6592,
+    "experience_score": 0.5129,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0092255",
+    "candidate_name": "Jay Chatterjee",
+    "current_title": "ML Engineer",
+    "overall_score": 0.6844,
+    "recommendation": "Consider",
+    "summary": "Candidate: Jay Chatterjee (ML Engineer)\nOverall Score: 0.68 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 5 years of professional experience\n  - Strong skills: OpenSearch, Weaviate, Semantic Search\n  - Proven production deployment experience\n\nSkill Gaps (Critical):\n  - Elasticsearch\n  - Faiss\n  - Milvus\n  - Pinecone\n\nTalent Insights:\n  - History of shorter engagements - verify stability\n  - High recruiter interest (frequently appeared in searches)",
+    "top_strengths": [
+      "5 years of professional experience",
+      "Strong skills: OpenSearch, Weaviate, Semantic Search",
+      "Proven production deployment experience",
+      "Actively looking for new opportunities"
+    ],
+    "skill_gaps": [
+      "Elasticsearch",
+      "Faiss",
+      "Milvus",
+      "Pinecone",
+      "Python",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval"
+    ],
+    "risk_factors": [],
+    "talent_insights": [
+      "History of shorter engagements - verify stability",
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6525,
+    "experience_score": 0.5694,
+    "trust_level": "medium"
+  },
+  {
+    "candidate_id": "CAND_0076163",
+    "candidate_name": "Nikhil Mittal",
+    "current_title": "NLP Engineer",
+    "overall_score": 0.6844,
+    "recommendation": "Consider",
+    "summary": "Candidate: Nikhil Mittal (NLP Engineer)\nOverall Score: 0.68 | Recommendation: Consider\nTrust Level: Medium\n\nKey Strengths:\n  - 6 years of professional experience\n  - Experience at leading tech companies\n  - Strong skills: Elasticsearch, OpenSearch, Weaviate\n\nSkill Gaps (Critical):\n  - Faiss\n  - Milvus\n  - Pinecone\n  - Qdrant\n\nRisk Factors:\n  - International location - may have relocation constraints\n\nTalent Insights:\n  - Shows long-term commitment to employers\n  - High recruiter interest (freque",
+    "top_strengths": [
+      "6 years of professional experience",
+      "Experience at leading tech companies",
+      "Strong skills: Elasticsearch, OpenSearch, Weaviate",
+      "Actively looking for new opportunities",
+      "High recruiter response rate"
+    ],
+    "skill_gaps": [
+      "Faiss",
+      "Milvus",
+      "Pinecone",
+      "Qdrant",
+      "Re-Ranking",
+      "Retrieval",
+      "Faiss (preferred)",
+      "Milvus (preferred)"
+    ],
+    "risk_factors": [
+      "International location - may have relocation constraints"
+    ],
+    "talent_insights": [
+      "Shows long-term commitment to employers",
+      "High recruiter interest (frequently appeared in searches)",
+      "Often saved by recruiters",
+      "Profile passes basic validation - review flagged items",
+      "Good semantic fit with some alignment gaps"
+    ],
+    "semantic_fit_score": 0.6381,
+    "experience_score": 0.5219,
+    "trust_level": "medium"
+  }
+]
